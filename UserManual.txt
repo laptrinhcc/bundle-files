@@ -1,0 +1,4 @@
+1. cài đặt nodejs: https://nodejs.org/en
+2. kiểm tra phiên bản nodejs: node -v
+3. kiểm tra phiên bản npm: npm -v
+4. cài đặt webpack : npm install webpack webpack-cli --save-dev
